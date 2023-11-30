@@ -1,0 +1,15 @@
+C:\Users\Acer\Documents\Знакомство_с_языками_программирования\Example_Task\Task36\bin\Debug\net6.0\Task36.exe
+C:\Users\Acer\Documents\Знакомство_с_языками_программирования\Example_Task\Task36\bin\Debug\net6.0\Task36.deps.json
+C:\Users\Acer\Documents\Знакомство_с_языками_программирования\Example_Task\Task36\bin\Debug\net6.0\Task36.runtimeconfig.json
+C:\Users\Acer\Documents\Знакомство_с_языками_программирования\Example_Task\Task36\bin\Debug\net6.0\Task36.dll
+C:\Users\Acer\Documents\Знакомство_с_языками_программирования\Example_Task\Task36\bin\Debug\net6.0\ref\Task36.dll
+C:\Users\Acer\Documents\Знакомство_с_языками_программирования\Example_Task\Task36\bin\Debug\net6.0\Task36.pdb
+C:\Users\Acer\Documents\Знакомство_с_языками_программирования\Example_Task\Task36\obj\Debug\net6.0\Task36.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\Знакомство_с_языками_программирования\Example_Task\Task36\obj\Debug\net6.0\Task36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Documents\Знакомство_с_языками_программирования\Example_Task\Task36\obj\Debug\net6.0\Task36.AssemblyInfoInputs.cache
+C:\Users\Acer\Documents\Знакомство_с_языками_программирования\Example_Task\Task36\obj\Debug\net6.0\Task36.AssemblyInfo.cs
+C:\Users\Acer\Documents\Знакомство_с_языками_программирования\Example_Task\Task36\obj\Debug\net6.0\Task36.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\Знакомство_с_языками_программирования\Example_Task\Task36\obj\Debug\net6.0\Task36.dll
+C:\Users\Acer\Documents\Знакомство_с_языками_программирования\Example_Task\Task36\obj\Debug\net6.0\ref\Task36.dll
+C:\Users\Acer\Documents\Знакомство_с_языками_программирования\Example_Task\Task36\obj\Debug\net6.0\Task36.pdb
+C:\Users\Acer\Documents\Знакомство_с_языками_программирования\Example_Task\Task36\obj\Debug\net6.0\Task36.genruntimeconfig.cache
